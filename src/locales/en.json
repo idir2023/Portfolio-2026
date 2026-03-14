@@ -1,0 +1,220 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "skills": "Skills",
+    "experience": "Experience",
+    "projects": "Projects",
+    "services": "Services",
+    "contact": "Contact"
+  },
+  "hero": {
+    "available": "Available for work",
+    "hi": "Hi, I'm",
+    "hireMe": "Hire Me",
+    "downloadCv": "Download CV"
+  },
+  "about": {
+    "title": "About",
+    "subtitle": "Me",
+    "description": "A brief look into my background and what drives me.",
+    "history": "History",
+    "whatAmIDoing": "What am I doing?",
+    "whatNext": "What next?",
+    "dreams": "Dreams"
+  },
+  "skills": {
+    "title": "Technical",
+    "subtitle": "Skills",
+    "description": "A comprehensive overview of my technical expertise and tools.",
+    "languages": "Languages",
+    "levels": {
+      "Native": "Native",
+      "Fluent": "Fluent",
+      "Professional": "Professional",
+      "Intermediate": "Intermediate",
+      "Basic": "Basic"
+    },
+    "langNames": {
+      "Arabic": "Arabic",
+      "French": "French",
+      "English": "English"
+    },
+    "categories": {
+      "Frontend": "Frontend",
+      "Backend": "Backend",
+      "Database": "Database",
+      "Tools": "Tools",
+      "Languages": "Languages"
+    }
+  },
+  "experience": {
+    "title": "Professional",
+    "subtitle": "Experience",
+    "description": "My journey and professional background."
+  },
+  "projects": {
+    "title": "Featured",
+    "subtitle": "Projects",
+    "description": "A selection of my recent work and personal projects."
+  },
+  "services": {
+    "title": "My",
+    "subtitle": "Services",
+    "description": "What I can do for you and your business."
+  },
+  "contact": {
+    "title": "Get In",
+    "subtitle": "Touch",
+    "description": "Have a project in mind or just want to say hi? Feel free to contact me.",
+    "talk": "Let's talk about your project",
+    "emailLabel": "Email",
+    "phoneLabel": "Phone / WhatsApp",
+    "locationLabel": "Location",
+    "name": "Your Name",
+    "namePlaceholder": "John Doe",
+    "email": "Your Email",
+    "emailPlaceholder": "john@example.com",
+    "subject": "Subject",
+    "subjectPlaceholder": "Project Discussion",
+    "message": "Message",
+    "messagePlaceholder": "Tell me about your project...",
+    "send": "Send Message",
+    "sending": "Sending...",
+    "success": "Message sent successfully!",
+    "error": "Failed to send message. Please try again."
+  },
+  "footer": {
+    "rights": "All rights reserved."
+  },
+  "data": {
+    "personalInfo": {
+      "title": "Software Engineer",
+      "location": "Casablanca, Morocco",
+      "about": "I am passionate and interested in the ever-growing field of Web Front-End development.I enjoy transforming designs into functional user interfaces using the latest tools and frameworks.",
+      "summary": "Results-driven PHP Laravel Developer with 3+ years of experience building scalable web applications, designing RESTful APIs, and optimizing database performance. Proven track record in delivering feature-rich solutions, reducing bug rates by 25%, and improving API response times by 40%. Expertise in full-stack development with Laravel, Eloquent ORM, MySQL, and modern JavaScript frameworks.",
+      "history": "Hello, my name is Lahcen Idir. I'm from Morocco and I'm 23 years old. I'm a web developer specializing in PHP Laravel. Currently, I'm working as an intern for Mandi Tech Info, a company based in Morocco, where I've been for 8 months. Before my time there, I've worked on various web projects such as hospital management systems, invoicing platforms, and online recruitment portals.",
+      "whatAmIDoing": "I am currently focusing on learning front-end frameworks such as React and Next.js, alongside honing my backend skills, with a particular emphasis on mastering user-friendly technologies like Node.js and Express.js. Keeping pace with the latest technological advancements, I am dedicated to continuously expanding my knowledge and applying emerging concepts. Concurrently, I am actively crafting my portfolio through the development of personal projects, ensuring practical application of my evolving skill set.",
+      "whatNext": "My goal now is to master Front-End and Back-End technology. So that I can build a solution to an existing problem easily. Even though it is not easy and it takes a long time, I believe I can achieve it if I practice and learn continuously.",
+      "dreams": "I aspire to join prestigious companies such as Google or Microsoft, targeting roles in software development engineering or front-end development. I am committed to diligently pursuing these opportunities, continuously enhancing my skills and knowledge until I achieve my goals. My ultimate aim is to become an inspiration to others and serve as a mentor, guiding individuals toward creating a brighter future."
+    },
+    "experience": [
+      {
+        "title": "Software Engineer",
+        "company": "Mandi Tech Info, Morocco",
+        "period": "Oct 2023 – Jun 2024",
+        "achievements": [
+          "Optimized POS system improving stability by 25% and reducing API response time by 40%",
+          "Developed 5+ features: inventory tracking, multi-location support, automated reporting (Laravel & jQuery)",
+          "Built RESTful API endpoints with OAuth 2.0 authentication for mobile app integration"
+        ]
+      },
+      {
+        "title": "Freelance Full-Stack Developer",
+        "company": "Fiverr & Independent Clients",
+        "period": "Jan 2023 – Sep 2024",
+        "achievements": [
+          "Delivered 10+ web applications with 100% on-time delivery and 4.9/5 client satisfaction",
+          "Architected RESTful APIs integrating payment gateways (Stripe, PayPal) and cloud storage (AWS S3)",
+          "Built admin panels reducing administrative tasks by 35% using Laravel, jQuery, Tailwind CSS"
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "title": "Hospital Management System",
+        "description": "Developed system with patient records, appointments, billing with secure data handling.",
+        "category": "Personal Project"
+      },
+      {
+        "title": "Invoices Management System",
+        "description": "A system to manage invoices efficiently.",
+        "category": "Personal Project"
+      },
+      {
+        "title": "WhatsApp Portfolio",
+        "description": "A portfolio website styled like WhatsApp.",
+        "category": "Personal Project"
+      },
+      {
+        "title": "Task Management Website",
+        "description": "Comprehensive task management solution for teams.",
+        "category": "Personal Project"
+      },
+      {
+        "title": "My Portfolio",
+        "description": "Personal portfolio website built with Next.js.",
+        "category": "Personal Project"
+      },
+      {
+        "title": "Airline Reservation System",
+        "description": "Flight booking and management system.",
+        "category": "Personal Project"
+      },
+      {
+        "title": "Online Recruitment Platform",
+        "description": "A platform for online recruitment and job applications.",
+        "category": "Personal Project"
+      },
+      {
+        "title": "Chat Application",
+        "description": "Real-time chat application.",
+        "category": "Personal Project"
+      },
+      {
+        "title": "Syndicate Management System",
+        "description": "A system for managing syndicate operations.",
+        "category": "Personal Project"
+      },
+      {
+        "title": "Law Firm Management System",
+        "description": "Built case management with automated invoicing, reducing billing time by 50%.",
+        "category": "Professional Project"
+      },
+      {
+        "title": "Afrilavage System",
+        "description": "Management system for Afrilavage.",
+        "category": "Professional Project"
+      },
+      {
+        "title": "AI Invoice Payment SaaS Platform",
+        "description": "Modern SaaS platform for invoice management and payments.",
+        "category": "Professional Project"
+      },
+      {
+        "title": "RestoPOS",
+        "description": "Point of Sale system for restaurants.",
+        "category": "Professional Project"
+      }
+    ],
+    "services": [
+      {
+        "title": "Website Development",
+        "description": "Complete website development services, transforming designs into fully functional, visually appealing websites."
+      },
+      {
+        "title": "Web Application Development",
+        "description": "Developing robust, feature-rich web applications that offer seamless user interactions and high performance."
+      },
+      {
+        "title": "Responsive Design",
+        "description": "Creating responsive designs that adapt flawlessly to any device, including mobile, tablet, and desktop."
+      },
+      {
+        "title": "Performance Optimization",
+        "description": "Enhancing the performance of websites and web applications, ensuring faster loading times and smooth interactions."
+      }
+    ]
+  },
+  "education": {
+    "title": "My",
+    "subtitle": "Education",
+    "items": [
+      {
+        "degree": "B.Sc. Computer Engineering",
+        "institution": "FST Settat, Morocco",
+        "period": "2020 - 2023"
+      }
+    ]
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "about": "À Propos",
+    "skills": "Compétences",
+    "experience": "Expérience",
+    "projects": "Projets",
+    "services": "Services",
+    "contact": "Contact"
+  },
+  "hero": {
+    "available": "Disponible pour travailler",
+    "hi": "Bonjour, je suis",
+    "hireMe": "Embauchez-moi",
+    "downloadCv": "Télécharger CV"
+  },
+  "about": {
+    "title": "À Propos de",
+    "subtitle": "Moi",
+    "description": "Un bref aperçu de mon parcours et de ce qui m'anime.",
+    "history": "Histoire",
+    "whatAmIDoing": "Que fais-je ?",
+    "whatNext": "Et ensuite ?",
+    "dreams": "Rêves"
+  },
+  "skills": {
+    "title": "Compétences",
+    "subtitle": "Techniques",
+    "description": "Un aperçu complet de mon expertise technique et de mes outils.",
+    "languages": "Langues",
+    "levels": {
+      "Native": "Maternelle",
+      "Fluent": "Courant",
+      "Professional": "Professionnel",
+      "Intermediate": "Intermédiaire",
+      "Basic": "Basique"
+    },
+    "langNames": {
+      "Arabic": "Arabe",
+      "French": "Français",
+      "English": "Anglais"
+    },
+    "categories": {
+      "Frontend": "Front-end",
+      "Backend": "Back-end",
+      "Database": "Base de données",
+      "Tools": "Outils",
+      "Languages": "Langages"
+    }
+  },
+  "experience": {
+    "title": "Expérience",
+    "subtitle": "Professionnelle",
+    "description": "Mon parcours et mon expérience professionnelle."
+  },
+  "projects": {
+    "title": "Projets",
+    "subtitle": "En Vedette",
+    "description": "Une sélection de mes travaux récents et projets personnels."
+  },
+  "services": {
+    "title": "Mes",
+    "subtitle": "Services",
+    "description": "Ce que je peux faire pour vous et votre entreprise."
+  },
+  "contact": {
+    "title": "Entrer en",
+    "subtitle": "Contact",
+    "description": "Vous avez un projet en tête ou vous voulez simplement dire bonjour ? N'hésitez pas à me contacter.",
+    "talk": "Parlons de votre projet",
+    "emailLabel": "E-mail",
+    "phoneLabel": "Téléphone / WhatsApp",
+    "locationLabel": "Emplacement",
+    "name": "Votre Nom",
+    "namePlaceholder": "Jean Dupont",
+    "email": "Votre E-mail",
+    "emailPlaceholder": "jean@exemple.com",
+    "subject": "Sujet",
+    "subjectPlaceholder": "Discussion de projet",
+    "message": "Message",
+    "messagePlaceholder": "Parlez-moi de votre projet...",
+    "send": "Envoyer le message",
+    "sending": "Envoi en cours...",
+    "success": "Message envoyé avec succès !",
+    "error": "Échec de l'envoi du message. Veuillez réessayer."
+  },
+  "footer": {
+    "rights": "Tous droits réservés."
+  },
+  "data": {
+    "personalInfo": {
+      "title": "Ingénieur Logiciel",
+      "location": "Casablanca, Maroc",
+      "about": "Je suis passionné et intéressé par le domaine en pleine croissance du développement Front-End Web. J'aime transformer des designs en interfaces utilisateur fonctionnelles en utilisant les derniers outils et frameworks.",
+      "summary": "Développeur PHP Laravel axé sur les résultats avec plus de 3 ans d'expérience dans la création d'applications web évolutives, la conception d'API RESTful et l'optimisation des performances de bases de données. Expérience prouvée dans la livraison de solutions riches en fonctionnalités, réduisant les taux de bugs de 25 % et améliorant les temps de réponse des API de 40 %. Expertise en développement full-stack avec Laravel, Eloquent ORM, MySQL et les frameworks JavaScript modernes.",
+      "history": "Bonjour, je m'appelle Lahcen Idir. Je viens du Maroc et j'ai 23 ans. Je suis développeur web spécialisé en PHP Laravel. Actuellement, je travaille comme stagiaire pour Mandi Tech Info, une entreprise basée au Maroc, où je suis depuis 8 mois. Avant cela, j'ai travaillé sur divers projets web tels que des systèmes de gestion hospitalière, des plateformes de facturation et des portails de recrutement en ligne.",
+      "whatAmIDoing": "Je me concentre actuellement sur l'apprentissage des frameworks front-end tels que React et Next.js, tout en perfectionnant mes compétences back-end, avec un accent particulier sur la maîtrise de technologies conviviales comme Node.js et Express.js. En suivant le rythme des dernières avancées technologiques, je m'engage à élargir continuellement mes connaissances et à appliquer de nouveaux concepts. Parallèlement, je construis activement mon portfolio à travers le développement de projets personnels, assurant une application pratique de mes compétences en évolution.",
+      "whatNext": "Mon objectif maintenant est de maîtriser les technologies Front-End et Back-End. Pour que je puisse construire facilement une solution à un problème existant. Même si ce n'est pas facile et que cela prend beaucoup de temps, je crois que je peux y arriver si je pratique et apprends continuellement.",
+      "dreams": "J'aspire à rejoindre des entreprises prestigieuses telles que Google ou Microsoft, en ciblant des rôles en ingénierie de développement logiciel ou en développement front-end. Je m'engage à poursuivre diligemment ces opportunités, en améliorant continuellement mes compétences et mes connaissances jusqu'à ce que j'atteigne mes objectifs. Mon but ultime est de devenir une inspiration pour les autres et de servir de mentor, guidant les individus vers la création d'un avenir meilleur."
+    },
+    "experience": [
+      {
+        "title": "Ingénieur Logiciel",
+        "company": "Mandi Tech Info, Maroc",
+        "period": "Oct 2023 – Juin 2024",
+        "achievements": [
+          "Optimisation du système de point de vente améliorant la stabilité de 25 % et réduisant le temps de réponse de l'API de 40 %",
+          "Développement de plus de 5 fonctionnalités : suivi des stocks, support multi-sites, rapports automatisés (Laravel & jQuery)",
+          "Création de points de terminaison d'API RESTful avec authentification OAuth 2.0 pour l'intégration d'applications mobiles"
+        ]
+      },
+      {
+        "title": "Développeur Full-Stack Freelance",
+        "company": "Fiverr & Clients Indépendants",
+        "period": "Jan 2023 – Sep 2024",
+        "achievements": [
+          "Livraison de plus de 10 applications web avec une livraison 100 % dans les temps et une satisfaction client de 4,9/5",
+          "Architecture d'API RESTful intégrant des passerelles de paiement (Stripe, PayPal) et du stockage cloud (AWS S3)",
+          "Création de panneaux d'administration réduisant les tâches administratives de 35 % en utilisant Laravel, jQuery, Tailwind CSS"
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "title": "Système de Gestion Hospitalière",
+        "description": "Développement d'un système avec dossiers des patients, rendez-vous, facturation avec gestion sécurisée des données.",
+        "category": "Projet Personnel"
+      },
+      {
+        "title": "Système de Gestion des Factures",
+        "description": "Un système pour gérer les factures efficacement.",
+        "category": "Projet Personnel"
+      },
+      {
+        "title": "Portfolio WhatsApp",
+        "description": "Un site web portfolio stylisé comme WhatsApp.",
+        "category": "Projet Personnel"
+      },
+      {
+        "title": "Site Web de Gestion des Tâches",
+        "description": "Solution complète de gestion des tâches pour les équipes.",
+        "category": "Projet Personnel"
+      },
+      {
+        "title": "Mon Portfolio",
+        "description": "Site web portfolio personnel construit avec Next.js.",
+        "category": "Projet Personnel"
+      },
+      {
+        "title": "Système de Réservation de Compagnie Aérienne",
+        "description": "Système de réservation et de gestion de vols.",
+        "category": "Projet Personnel"
+      },
+      {
+        "title": "Plateforme de Recrutement en Ligne",
+        "description": "Une plateforme pour le recrutement en ligne et les candidatures.",
+        "category": "Projet Personnel"
+      },
+      {
+        "title": "Application de Chat",
+        "description": "Application de chat en temps réel.",
+        "category": "Projet Personnel"
+      },
+      {
+        "title": "Système de Gestion de Syndicat",
+        "description": "Un système pour gérer les opérations syndicales.",
+        "category": "Projet Personnel"
+      },
+      {
+        "title": "Système de Gestion de Cabinet d'Avocats",
+        "description": "Création d'une gestion de cas avec facturation automatisée, réduisant le temps de facturation de 50 %.",
+        "category": "Projet Professionnel"
+      },
+      {
+        "title": "Système Afrilavage",
+        "description": "Système de gestion pour Afrilavage.",
+        "category": "Projet Professionnel"
+      },
+      {
+        "title": "Plateforme SaaS de Paiement de Factures IA",
+        "description": "Plateforme SaaS moderne pour la gestion et le paiement des factures.",
+        "category": "Projet Professionnel"
+      },
+      {
+        "title": "RestoPOS",
+        "description": "Système de point de vente pour restaurants.",
+        "category": "Projet Professionnel"
+      }
+    ],
+    "services": [
+      {
+        "title": "Développement de Sites Web",
+        "description": "Services complets de développement de sites web, transformant des designs en sites web entièrement fonctionnels et visuellement attrayants."
+      },
+      {
+        "title": "Développement d'Applications Web",
+        "description": "Développement d'applications web robustes et riches en fonctionnalités offrant des interactions utilisateur fluides et de hautes performances."
+      },
+      {
+        "title": "Design Réactif",
+        "description": "Création de designs réactifs qui s'adaptent parfaitement à n'importe quel appareil, y compris mobile, tablette et bureau."
+      },
+      {
+        "title": "Optimisation des Performances",
+        "description": "Amélioration des performances des sites web et des applications web, garantissant des temps de chargement plus rapides et des interactions fluides."
+      }
+    ]
+  },
+  "education": {
+    "title": "Mon",
+    "subtitle": "Éducation",
+    "items": [
+      {
+        "degree": "B.Sc. Ingénierie Informatique",
+        "institution": "FST Settat, Maroc",
+        "period": "2020 - 2023"
+      }
+    ]
+  }
+}
