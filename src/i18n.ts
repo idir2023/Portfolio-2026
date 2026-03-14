@@ -13,8 +13,8 @@ i18n
       fr: { translation: fr },
       ar: { translation: ar },
     },
-    lng: 'fr', 
-    fallbackLng: 'fr',
+    lng: 'en', 
+    fallbackLng: 'en',
     interpolation: {
       escapeValue: false, // react already safes from xss
     },
