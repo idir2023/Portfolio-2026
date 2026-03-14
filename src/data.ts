@@ -36,25 +36,25 @@ export const personalInfo = {
 };
 
 export const skills = [
-  { name: "HTML 5", category: "Frontend", icon: "/next-portfolio-idir/images/skill-html5.svg" },
-  { name: "CSS 3", category: "Frontend", icon: "/next-portfolio-idir/images/skill-css3.svg" },
-  { name: "Javascript", category: "Frontend", icon: "/next-portfolio-idir/images/skill-javascript.svg" },
-  { name: "TailwindCss", category: "Frontend", icon: "/next-portfolio-idir/images/skill-tailwindcss.svg" },
-  { name: "Bootstrap 5", category: "Frontend", icon: "/next-portfolio-idir/images/bootstrap-logo.svg" },
-  { name: "React JS", category: "Frontend", icon: "/next-portfolio-idir/images/skill-reactjs.svg" },
-  { name: "Next JS", category: "Frontend", icon: "/next-portfolio-idir/images/skill-nextjs.svg" },
-  { name: "Laravel", category: "Backend", icon: "/next-portfolio-idir/images/laravel.png" },
-  { name: "Node JS", category: "Backend", icon: "/next-portfolio-idir/images/nodejs.png" },
-  { name: "Firebase", category: "Backend", icon: "/next-portfolio-idir/images/skill-firebase.svg" },
-  { name: "Sql", category: "Database", icon: "/next-portfolio-idir/images/skill-sql.png" },
-  { name: "MongoDB", category: "Database", icon: "/next-portfolio-idir/images/mongodb.png" },
-  { name: "Git", category: "Tools", icon: "/next-portfolio-idir/images/skill-git.svg" },
-  { name: "Github", category: "Tools", icon: "/next-portfolio-idir/images/skill-github.svg" },
-  { name: "Vite JS", category: "Tools", icon: "/next-portfolio-idir/images/vitejs.svg" },
-  { name: "Visual Studio Code", category: "Tools", icon: "/next-portfolio-idir/images/vscode.png" },
-  { name: "Linux", category: "Tools", icon: "/next-portfolio-idir/images/Linux.png" },
-  { name: "Java", category: "Languages", icon: "/next-portfolio-idir/images/java.png" },
-  { name: "C++", category: "Languages", icon: "/next-portfolio-idir/images/c++.png" },
+  { name: "HTML 5", category: "Frontend", icon: "/images/skill-html5.svg" },
+  { name: "CSS 3", category: "Frontend", icon: "/images/skill-css3.svg" },
+  { name: "Javascript", category: "Frontend", icon: "/images/skill-javascript.svg" },
+  { name: "TailwindCss", category: "Frontend", icon: "/images/skill-tailwindcss.svg" },
+  { name: "Bootstrap 5", category: "Frontend", icon: "/images/bootstrap-logo.svg" },
+  { name: "React JS", category: "Frontend", icon: "/images/skill-reactjs.svg" },
+  { name: "Next JS", category: "Frontend", icon: "/images/skill-nextjs.svg" },
+  { name: "Laravel", category: "Backend", icon: "/images/laravel.png" },
+  { name: "Node JS", category: "Backend", icon: "/images/nodejs.png" },
+  { name: "Firebase", category: "Backend", icon: "/images/skill-firebase.svg" },
+  { name: "Sql", category: "Database", icon: "/images/skill-sql.png" },
+  { name: "MongoDB", category: "Database", icon: "/images/mongodb.png" },
+  { name: "Git", category: "Tools", icon: "/images/skill-git.svg" },
+  { name: "Github", category: "Tools", icon: "/images/skill-github.svg" },
+  { name: "Vite JS", category: "Tools", icon: "/images/vitejs.svg" },
+  { name: "Visual Studio Code", category: "Tools", icon: "/images/vscode.png" },
+  { name: "Linux", category: "Tools", icon: "/images/Linux.png" },
+  { name: "Java", category: "Languages", icon: "/images/java.png" },
+  { name: "C++", category: "Languages", icon: "/images/c++.png" },
 ];
 
 export const languages = [
@@ -104,7 +104,7 @@ export const projects = [
     githubUrl: "https://github.com/idir2023/Gestion_Hospitalier",
     url: "https://github.com/idir2023/Gestion_Hospitalier",
     category: "Personal Project",
-    image: "/next-portfolio-idir/images/work-2.png"
+    image: "/images/work-2.png"
   },
   {
     title: "Invoices Management System",
@@ -115,7 +115,7 @@ export const projects = [
     githubUrl: "https://github.com/idir2023/Invoices_Management",
     url: "https://github.com/idir2023/Invoices_Management",
     category: "Personal Project",
-    image: "/next-portfolio-idir/images/invoice.png"
+    image: "/images/invoice.png"
   },
   {
     title: "WhatsApp Portfolio",
@@ -126,7 +126,7 @@ export const projects = [
     githubUrl: "https://github.com/idir2023/Portfolio_whatsapp",
     url: "https://github.com/idir2023/Portfolio_whatsapp",
     category: "Personal Project",
-    image: "/next-portfolio-idir/images/work-7.png"
+    image: "/images/work-7.png"
   },
   {
     title: "Task Management Website",
@@ -137,7 +137,7 @@ export const projects = [
     githubUrl: "https://github.com/idir2023/TASK-MANAGEMENT",
     url: "https://github.com/idir2023/TASK-MANAGEMENT",
     category: "Personal Project",
-    image: "/next-portfolio-idir/images/task_app.png"
+    image: "/images/task_app.png"
   },
   {
     title: "My Portfolio",
@@ -148,7 +148,7 @@ export const projects = [
     liveUrl: "https://syedmoin-lab.github.io/My-Portfolio-3/",
     url: "https://syedmoin-lab.github.io/My-Portfolio-3/",
     category: "Personal Project",
-    image: "/next-portfolio-idir/images/portfolio_react.png"
+    image: "/images/portfolio_react.png"
   },
   {
     title: "Airline Reservation System",
@@ -159,7 +159,7 @@ export const projects = [
     githubUrl: "https://github.com/idir2023/airline-reservation",
     url: "https://github.com/idir2023/airline-reservation",
     category: "Personal Project",
-    image: "/next-portfolio-idir/images/airline.png"
+    image: "/images/airline.png"
   },
   {
     title: "Online Recruitment Platform",
@@ -170,7 +170,7 @@ export const projects = [
     liveUrl: "https://restaurant-website-grilli.vercel.app/",
     url: "https://restaurant-website-grilli.vercel.app/",
     category: "Personal Project",
-    image: "/next-portfolio-idir/images/work-1.png"
+    image: "/images/work-1.png"
   },
   {
     title: "Chat Application",
@@ -181,7 +181,7 @@ export const projects = [
     githubUrl: "https://github.com/idir2023/Chat_real_use_react.js",
     url: "https://github.com/idir2023/Chat_real_use_react.js",
     category: "Personal Project",
-    image: "/next-portfolio-idir/images/chat_app.png"
+    image: "/images/chat_app.png"
   },
   {
     title: "Syndicate Management System",
@@ -192,7 +192,7 @@ export const projects = [
     githubUrl: "https://github.com/idir2023/Syndicat-amine",
     url: "https://github.com/idir2023/Syndicat-amine",
     category: "Personal Project",
-    image: "/next-portfolio-idir/images/syndichat.png"
+    image: "/images/syndichat.png"
   },
   {
     title: "Law Firm Management System",
@@ -203,7 +203,7 @@ export const projects = [
     liveUrl: "https://cabinethbavocats.com/",
     url: "https://cabinethbavocats.com/",
     category: "Professional Project",
-    image: "/next-portfolio-idir/images/avocat.PNG"
+    image: "/images/avocat.PNG"
   },
   {
     title: "Afrilavage System",
@@ -214,7 +214,7 @@ export const projects = [
     liveUrl: "https://www.afrilavage.com/",
     url: "https://www.afrilavage.com/",
     category: "Professional Project",
-    image: "/next-portfolio-idir/images/afrilavage.png"
+    image: "/images/afrilavage.png"
   },
   {
     title: "AI Invoice Payment SaaS Platform",
@@ -225,7 +225,7 @@ export const projects = [
     githubUrl: "https://github.com/idir2023/invoices_management_2026",
     url: "https://github.com/idir2023/invoices_management_2026",
     category: "Professional Project",
-    image: "/next-portfolio-idir/images/invoicesPro.png"
+    image: "/images/invoicesPro.png"
   },
   {
     title: "RestoPOS",
@@ -236,7 +236,7 @@ export const projects = [
     githubUrl: "https://github.com/idir2023/RestPos",
     url: "https://github.com/idir2023/RestPos",
     category: "Professional Project",
-    image: "/next-portfolio-idir/images/invoicesPro.png"
+    image: "/images/invoicesPro.png"
   }
 ];
 
@@ -245,24 +245,24 @@ export const services = [
     title: "Website Development",
     description:
       "Complete website development services, transforming designs into fully functional, visually appealing websites.",
-    icon: "/next-portfolio-idir/images/service-website.svg",
+    icon: "/images/service-website.svg",
   },
   {
     title: "Web Application Development",
     description:
       "Developing robust, feature-rich web applications that offer seamless user interactions and high performance.",
-    icon: "/next-portfolio-idir/images/service-webapps.svg",
+    icon: "/images/service-webapps.svg",
   },
   {
     title: "Responsive Design",
     description:
       "Creating responsive designs that adapt flawlessly to any device, including mobile, tablet, and desktop.",
-    icon: "/next-portfolio-idir/images/service-rwd.svg",
+    icon: "/images/service-rwd.svg",
   },
   {
     title: "Performance Optimization",
     description:
       "Enhancing the performance of websites and web applications, ensuring faster loading times and smooth interactions.",
-    icon: "/next-portfolio-idir/images/service-performance.svg",
+    icon: "/images/service-performance.svg",
   },
 ];
