@@ -14,13 +14,13 @@ export default function SEO() {
       <meta property="og:type" content="website" />
       <meta property="og:title" content={`${t("data.personalInfo.name")} | ${t("data.personalInfo.title")}`} />
       <meta property="og:description" content={t("data.personalInfo.summary")} />
-      <meta property="og:image" content="/next-portfolio-idir/images/hero-image.png" />
+      <meta property="og:image" content="/images/hero-image.png" />
 
       {/* Twitter */}
       <meta property="twitter:card" content="summary_large_image" />
       <meta property="twitter:title" content={`${t("data.personalInfo.name")} | ${t("data.personalInfo.title")}`} />
       <meta property="twitter:description" content={t("data.personalInfo.summary")} />
-      <meta property="twitter:image" content="/next-portfolio-idir/images/hero-image.png" />
+      <meta property="twitter:image" content="/images/hero-image.png" />
 
       <link rel="canonical" href={window.location.origin} />
     </Helmet>
