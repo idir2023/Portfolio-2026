@@ -104,7 +104,7 @@ export default function Hero() {
           <div className="absolute inset-0 bg-gradient-to-tr from-emerald-500/20 to-indigo-500/20 rounded-3xl transform rotate-6 scale-105 blur-xl" />
           <div className="relative w-full h-full rounded-3xl overflow-hidden border border-zinc-200 dark:border-white/10 bg-white/50 dark:bg-zinc-900/50 backdrop-blur-sm p-2">
             <img
-              src="/images/logo.jpg"
+              src="/Portfolio-2026/images/logo.jpg"
               alt={personalInfo.name}
               className="w-full h-full object-cover rounded-2xl grayscale hover:grayscale-0 transition-all duration-500"
               referrerPolicy="no-referrer"
